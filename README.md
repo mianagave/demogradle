@@ -4,7 +4,10 @@
   membantu saya sebagai pemula  memahami konsep dasar Gradle dan cara menambahkan pustaka (dependencies) dan task ke dalam proyek.
 2.Cara run project
   dalam menjalankan project ini , Anda telah menginstal java dan gradle pada sistem.Kemudian membuka file file build gradle dan
-  mengerjakan project yang telah ditentukan dan mendorong proyek ke GitHub dengan membuat repositori baru  
+  mengerjakan project yang telah ditentukan dan mendorong proyek ke GitHub dengan membuat repositori baru 
+3.Bukti ss
+  ![Screenshot Proyek](images/Screenshot_2024-10-04_113613.png)
+
 
 
   
